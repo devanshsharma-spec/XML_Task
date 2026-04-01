@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>31536.0001_Stmt_611738 (1).pdf</SourceFile>
+  <DocumentType>statement</DocumentType>
+  <Invoice>
+    <InvoiceNumber>611738</InvoiceNumber>
+    <InvoiceDate>December 31, 2025</InvoiceDate>
+    <ClientNumber>31536.0001</ClientNumber>
+    <MatterReference>Pella Windows Matter</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Delgany Association</Name>
+      <CareOf>c/o RowCal Management</CareOf>
+      <AddressLine1>PO Box 421150</AddressLine1>
+      <AddressLine2 />
+      <City>Minneapolis</City>
+      <State>MN</State>
+      <PostalCode>55442</PostalCode>
+      <Attention>RowCal</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems />
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance />
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount />
+      <BalanceDue>50.00</BalanceDue>
+      <PleaseRemit>50.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

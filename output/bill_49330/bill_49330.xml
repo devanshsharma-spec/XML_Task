@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>bill_49330.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>49330</InvoiceNumber>
+    <InvoiceDate>08/01/2025</InvoiceDate>
+    <ClientNumber>14706-Providence Pointe Condominium Association, Inc.</ClientNumber>
+    <MatterReference>14706-Providence Pointe Condominium Association, Inc.</MatterReference>
+    <FederalTaxId />
+    <Vendor>
+      <Name>Greenstein Sellers PLLC</Name>
+      <AddressLine1>121 South 8th Street, Suite 1450</AddressLine1>
+      <City>Minneapolis</City>
+      <State>MN</State>
+      <PostalCode>55402</PostalCode>
+      <Phone />
+      <Fax />
+      <Website />
+    </Vendor>
+    <BillTo>
+      <Name>c/o Sharper Management 10340 Viking Drive, Suite 105</Name>
+      <CareOf />
+      <AddressLine1 />
+      <AddressLine2 />
+      <City>Eden Prairie</City>
+      <State>Minnesota</State>
+      <PostalCode>55344</PostalCode>
+      <Attention />
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>07/22/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Pull and review file; emails to and from client; 0.60 $120.00 $72.00 draft Discharge of Lien; email to client for signature</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>07/29/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review executed Discharge of Lien; pull and 0.20 $120.00 $24.00 review file; arrange for e-recording</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>3</LineNumber>
+        <ServiceDate>07/29/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review file; submit Discharge of Notice of Lein for 0.20 $120.00 $24.00 e-recording</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>4</LineNumber>
+        <ServiceDate>08/01/2025</ServiceDate>
+        <TimekeeperCode>Expense</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Reimbursable expenses: Recording fee - 1.00 $51.00 $51.00 Discharge of Lien</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Expense</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>5</LineNumber>
+        <ServiceDate>08/01/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review recorded Discharge of Lien; approve 0.20 $120.00 $24.00 invoice to be paid; file; close file</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance>342.50</PreviousBalance>
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount>195.00</CurrentInvoiceAmount>
+      <BalanceDue>147.50</BalanceDue>
+      <PleaseRemit>147.50</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

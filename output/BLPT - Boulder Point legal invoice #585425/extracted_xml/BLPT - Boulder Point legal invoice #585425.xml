@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>BLPT - Boulder Point legal invoice #585425.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>585425</InvoiceNumber>
+    <InvoiceDate>June 30, 2025</InvoiceDate>
+    <ClientNumber>12229.0001</ClientNumber>
+    <MatterReference>General Legal Matters</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Boulder Pointe HOA-Single Family</Name>
+      <CareOf>C/O Sharper Management, LLC</CareOf>
+      <AddressLine1>10340 Viking Dr.</AddressLine1>
+      <AddressLine2>Ste. 105</AddressLine2>
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention>Sharper Management</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>06/19/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review and revise the 6th Amended and Restated Declaration. Email correspondence with board.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.90</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>405.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>06/29/2025</ServiceDate>
+        <TimekeeperCode>AMB</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Confirm amendment process timeline with PJH re advisement for upcoming Association meeting to prepare for statutory mailing documents.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.20</Quantity>
+        <UnitPrice>340.00</UnitPrice>
+        <LineAmount>68.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>3</LineNumber>
+        <ServiceDate>06/30/2025</ServiceDate>
+        <TimekeeperCode>AMB</TimekeeperCode>
+        <TimekeeperName />
+        <Description>(NO CHARGE) Review PM status to confirm status of communications.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.20</Quantity>
+        <UnitPrice>340.00</UnitPrice>
+        <LineAmount>0.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary>
+      <Timekeeper>
+        <Name>Phaedra J. Howard</Name>
+        <Amount>405.00</Amount>
+      </Timekeeper>
+      <Timekeeper>
+        <Name>Amy M. Byrne</Name>
+        <Amount>68.00</Amount>
+      </Timekeeper>
+    </TimekeeperSummary>
+    <Totals>
+      <PreviousBalance>180.00</PreviousBalance>
+      <CurrentInvoiceHours>1.30</CurrentInvoiceHours>
+      <CurrentInvoiceAmount>473.00</CurrentInvoiceAmount>
+      <BalanceDue>473.00</BalanceDue>
+      <PleaseRemit>473.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

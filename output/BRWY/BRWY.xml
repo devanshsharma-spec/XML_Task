@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>BRWY.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>569792</InvoiceNumber>
+    <InvoiceDate>March 31, 2025</InvoiceDate>
+    <ClientNumber>18728.0001</ClientNumber>
+    <MatterReference>General Matters</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Bremer Way Condominium Association</Name>
+      <CareOf>c/o Sharper Management</CareOf>
+      <AddressLine1>10340 Viking Dr.</AddressLine1>
+      <AddressLine2>Ste. 105</AddressLine2>
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention>Melissa Cushing</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>03/13/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Teleconference with board re insurance claim and assessment of deductible.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.80</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>360.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>03/16/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review insurance claim estimate. Emails with board re same and assessment of deductible.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.60</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>270.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>3</LineNumber>
+        <ServiceDate>03/17/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Emails with board re insurance claim and related issues.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>1.00</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>450.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable>
+      <Entry>
+        <StmtDate>08/31/2024</StmtDate>
+        <StmtNumber>538887</StmtNumber>
+        <Billed>885.97</Billed>
+        <Due>3.47</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>09/30/2024</StmtDate>
+        <StmtNumber>546524</StmtNumber>
+        <Billed>2938.35</Billed>
+        <Due>1402.81</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>10/31/2024</StmtDate>
+        <StmtNumber>551074</StmtNumber>
+        <Billed>1496.79</Billed>
+        <Due>1496.79</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>11/30/2024</StmtDate>
+        <StmtNumber>555656</StmtNumber>
+        <Billed>198.50</Billed>
+        <Due>198.50</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>12/31/2024</StmtDate>
+        <StmtNumber>560120</StmtNumber>
+        <Billed>30.92</Billed>
+        <Due>30.92</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>01/31/2025</StmtDate>
+        <StmtNumber>560853</StmtNumber>
+        <Billed>617.59</Billed>
+        <Due>32.59</Due>
+      </Entry>
+      <Entry>
+        <StmtDate>02/28/2025</StmtDate>
+        <StmtNumber>564905</StmtNumber>
+        <Billed>1009.22</Billed>
+        <Due>19.22</Due>
+      </Entry>
+    </AgedAccountsReceivable>
+    <TimekeeperSummary>
+      <Timekeeper>
+        <Name>Phaedra J. Howard</Name>
+        <Amount>1080.00</Amount>
+      </Timekeeper>
+    </TimekeeperSummary>
+    <Totals>
+      <PreviousBalance>4174.30</PreviousBalance>
+      <CurrentInvoiceHours>2.40</CurrentInvoiceHours>
+      <CurrentInvoiceAmount>1080.00</CurrentInvoiceAmount>
+      <BalanceDue>4285.78</BalanceDue>
+      <PleaseRemit>4285.78</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

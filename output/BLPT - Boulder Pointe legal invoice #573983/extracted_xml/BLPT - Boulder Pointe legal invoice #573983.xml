@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>BLPT - Boulder Pointe legal invoice #573983.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>573983</InvoiceNumber>
+    <InvoiceDate>April 30, 2025</InvoiceDate>
+    <ClientNumber>12229.0001</ClientNumber>
+    <MatterReference>General Legal Matters</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Boulder Pointe HOA-Single Family</Name>
+      <CareOf>C/O Sharper Management, LLC</CareOf>
+      <AddressLine1>10340 Viking Dr.</AddressLine1>
+      <AddressLine2>Ste. 105</AddressLine2>
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention>Sharper Management</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>04/16/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Email correspondence with board re amended documents.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.40</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>180.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary>
+      <Timekeeper>
+        <Name>Phaedra J. Howard</Name>
+        <Amount>180.00</Amount>
+      </Timekeeper>
+    </TimekeeperSummary>
+    <Totals>
+      <PreviousBalance>1395.00</PreviousBalance>
+      <CurrentInvoiceHours>0.40</CurrentInvoiceHours>
+      <CurrentInvoiceAmount>180.00</CurrentInvoiceAmount>
+      <BalanceDue>180.00</BalanceDue>
+      <PleaseRemit>180.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

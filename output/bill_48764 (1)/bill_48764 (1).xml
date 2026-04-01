@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>bill_48764 (1).pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>48764</InvoiceNumber>
+    <InvoiceDate>07/01/2025</InvoiceDate>
+    <ClientNumber>15493-Providence Pointe Condominium Association, Inc.</ClientNumber>
+    <MatterReference>15493-Providence Pointe Condominium Association, Inc.</MatterReference>
+    <FederalTaxId />
+    <Vendor>
+      <Name>Greenstein Sellers PLLC</Name>
+      <AddressLine1>121 South 8th Street, Suite 1450</AddressLine1>
+      <City>Minneapolis</City>
+      <State>MN</State>
+      <PostalCode>55402</PostalCode>
+      <Phone />
+      <Fax />
+      <Website />
+    </Vendor>
+    <BillTo>
+      <Name>c/o Sharper Management 10340 Viking Drive, Suite 105</Name>
+      <CareOf />
+      <AddressLine1 />
+      <AddressLine2 />
+      <City>Eden Prairie</City>
+      <State>Minnesota</State>
+      <PostalCode>55344</PostalCode>
+      <Attention />
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>06/03/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Attention to correspondence from management 0.20 $350.00 $70.00 company for owner regarding delinquent amount owed; follow up with associate to request written approval for communications.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>06/10/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Attention chain with Associate and opposing 0.30 $295.00 $88.50 counsel. Reviewed file history. Drafted and sent response email to opposing counsel.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>3</LineNumber>
+        <ServiceDate>06/20/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>attention to e-mails; calculate updated lien payoff 0.30 $295.00 $88.50 amount</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>4</LineNumber>
+        <ServiceDate>06/24/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>No charge. Additional correspondence with 0.25 $0.00 $0.00 opposing counsel relaying lien payoff amount and follow up emails about request for payment plan.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>5</LineNumber>
+        <ServiceDate>06/26/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>No charge. Relayed payment plan proposal to 0.20 $0.00 $0.00 client.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>6</LineNumber>
+        <ServiceDate>06/27/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Reviewed client response to owner payment plan 0.20 $350.00 $70.00 proposal; follow up with opposing counsel relaying counteroffer; updated file.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>7</LineNumber>
+        <ServiceDate>06/30/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Correspondence with counsel on owner rejection 0.25 $350.00 $87.50 of counter offer; prepared notice of pendency and power of attorney to foreclose; sent updated to Board and requested signature and approval to proceed; updated file.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance>404.50</PreviousBalance>
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount>404.50</CurrentInvoiceAmount>
+      <BalanceDue>404.50</BalanceDue>
+      <PleaseRemit>404.50</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

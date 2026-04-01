@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>BEDF - Bedford legal invoice #78757.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>78757</InvoiceNumber>
+    <InvoiceDate>May 2, 2025</InvoiceDate>
+    <ClientNumber />
+    <MatterReference>Bedford Townhomes Owners' Association</MatterReference>
+    <FederalTaxId>20-8473763</FederalTaxId>
+    <Vendor>
+      <Name>Carlson &amp; Associates, Ltd.</Name>
+      <AddressLine1>1052 Centerville Circle</AddressLine1>
+      <City>Vadnais Heights</City>
+      <State>MN</State>
+      <PostalCode>55127</PostalCode>
+      <Phone>(651) 287-8640</Phone>
+      <Fax />
+      <Website />
+    </Vendor>
+    <BillTo>
+      <Name>Bedford Townhomes Owners' Association</Name>
+      <CareOf>c/o Sharper Management</CareOf>
+      <AddressLine1>10340 Viking Drive</AddressLine1>
+      <AddressLine2>Suite 105</AddressLine2>
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention />
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>4/10/2025</ServiceDate>
+        <TimekeeperCode>TPC</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review account information; draft 30 day demand letter and validation 0.50 NO CHARGE notice. (Zheng 8)</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Professional Services</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance />
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount>0.00</CurrentInvoiceAmount>
+      <BalanceDue>0.00</BalanceDue>
+      <PleaseRemit>0.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

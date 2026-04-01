@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>bill_54426.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>54426</InvoiceNumber>
+    <InvoiceDate>12/01/2025</InvoiceDate>
+    <ClientNumber>19108-Rice Lake Woods Home Owners Association</ClientNumber>
+    <MatterReference>19108-Rice Lake Woods Home Owners Association</MatterReference>
+    <FederalTaxId />
+    <Vendor>
+      <Name>Greenstein Sellers PLLC</Name>
+      <AddressLine1>121 South 8th Street, Suite 1450</AddressLine1>
+      <City>Minneapolis</City>
+      <State>MN</State>
+      <PostalCode>55402</PostalCode>
+      <Phone />
+      <Fax />
+      <Website />
+    </Vendor>
+    <BillTo>
+      <Name>c/o Sharper Management</Name>
+      <CareOf />
+      <AddressLine1>10340 Viking Drive Suite 105</AddressLine1>
+      <AddressLine2 />
+      <City>Eden Prairie</City>
+      <State>Minnesota</State>
+      <PostalCode>55344</PostalCode>
+      <Attention />
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>11/13/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>30 Day Letter</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>1.00</Quantity>
+        <UnitPrice>65.00</UnitPrice>
+        <LineAmount>65.00</LineAmount>
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>11/14/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>T/c from title company. Confirmed that I need 0.30 $295.00 $88.50 owner authorization to discuss. Provided email. Updated file.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>3</LineNumber>
+        <ServiceDate>11/14/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Attention to email from title company with closing 0.20 $295.00 $59.00 schedule and signed owner authorization. Reviewed and updated file.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>4</LineNumber>
+        <ServiceDate>11/18/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Reviewed account status and ledger. Calculated 0.50 $295.00 $147.50 payoff. Drafted payoff letter to title company. Updated file.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>5</LineNumber>
+        <ServiceDate>11/25/2025</ServiceDate>
+        <TimekeeperCode>Service</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Review payment from Ancona Title; pull and 0.40 $120.00 $48.00 review file; forward payment to client with instructions; update file; close file</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity />
+        <UnitPrice />
+        <LineAmount />
+        <Category>Service</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>6</LineNumber>
+        <ServiceDate>11/25/2025</ServiceDate>
+        <TimekeeperCode>Expense</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Reimbursable expenses: Courier fee</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>1.00</Quantity>
+        <UnitPrice>10.00</UnitPrice>
+        <LineAmount>10.00</LineAmount>
+        <Category>Expense</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance>418.00</PreviousBalance>
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount>418.00</CurrentInvoiceAmount>
+      <BalanceDue>418.00</BalanceDue>
+      <PleaseRemit>418.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

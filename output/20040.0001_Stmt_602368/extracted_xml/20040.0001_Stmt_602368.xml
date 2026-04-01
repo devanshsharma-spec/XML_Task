@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>20040.0001_Stmt_602368.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>602368</InvoiceNumber>
+    <InvoiceDate>October 31, 2025</InvoiceDate>
+    <ClientNumber>20040.0001</ClientNumber>
+    <MatterReference>General Matters</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Kingslee Heights Home Association</Name>
+      <CareOf>c/o Gassen Companies</CareOf>
+      <AddressLine1>6438 City W. Pkwy.</AddressLine1>
+      <AddressLine2 />
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention />
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems>
+      <LineItem>
+        <LineNumber>1</LineNumber>
+        <ServiceDate>10/27/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Email correspondence with property manager re homeowner pipe burst and insurance claim issue.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>1.00</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>450.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+      <LineItem>
+        <LineNumber>2</LineNumber>
+        <ServiceDate>10/28/2025</ServiceDate>
+        <TimekeeperCode>PJH</TimekeeperCode>
+        <TimekeeperName />
+        <Description>Email correspondence with property manager re pipe burst issue.</Description>
+        <UnitType>Hours</UnitType>
+        <Quantity>0.10</Quantity>
+        <UnitPrice>450.00</UnitPrice>
+        <LineAmount>45.00</LineAmount>
+        <Category>Professional Services</Category>
+      </LineItem>
+    </LineItems>
+    <AgedAccountsReceivable />
+    <TimekeeperSummary>
+      <Timekeeper>
+        <Name>Phaedra J. Howard</Name>
+        <Amount>495.00</Amount>
+      </Timekeeper>
+    </TimekeeperSummary>
+    <Totals>
+      <PreviousBalance>909.25</PreviousBalance>
+      <CurrentInvoiceHours>1.10</CurrentInvoiceHours>
+      <CurrentInvoiceAmount>495.00</CurrentInvoiceAmount>
+      <BalanceDue>1404.25</BalanceDue>
+      <PleaseRemit>1404.25</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

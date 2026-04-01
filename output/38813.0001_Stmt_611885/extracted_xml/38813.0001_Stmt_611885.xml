@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>38813.0001_Stmt_611885.pdf</SourceFile>
+  <DocumentType>invoice</DocumentType>
+  <Invoice>
+    <InvoiceNumber>611885</InvoiceNumber>
+    <InvoiceDate>December 31, 2025</InvoiceDate>
+    <ClientNumber>38813.0001</ClientNumber>
+    <MatterReference>Auto Owners Insurance Dispute Matter</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Oak Grove Condominium Association Inc</Name>
+      <CareOf />
+      <AddressLine1>301 Oak Grove St.</AddressLine1>
+      <AddressLine2 />
+      <City>Minneapolis</City>
+      <State>MN</State>
+      <PostalCode>55403</PostalCode>
+      <Attention>Marylin Talarico</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems />
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance>1076.00</PreviousBalance>
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount>0.00</CurrentInvoiceAmount>
+      <BalanceDue>0.00</BalanceDue>
+      <PleaseRemit>0.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

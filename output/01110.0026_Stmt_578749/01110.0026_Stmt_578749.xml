@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InvoiceExtraction>
+  <SourceFile>01110.0026_Stmt_578749.pdf</SourceFile>
+  <DocumentType>statement</DocumentType>
+  <Invoice>
+    <InvoiceNumber>578749</InvoiceNumber>
+    <InvoiceDate>May 31, 2025</InvoiceDate>
+    <ClientNumber>01110.0026</ClientNumber>
+    <MatterReference>Stein, Jennifer Matter</MatterReference>
+    <FederalTaxId>41-1991386</FederalTaxId>
+    <Vendor>
+      <Name>Hellmuth &amp; Johnson</Name>
+      <AddressLine1>8050 West 78th Street</AddressLine1>
+      <City>Edina</City>
+      <State>MN</State>
+      <PostalCode>55439</PostalCode>
+      <Phone>952-941-4005</Phone>
+      <Fax>952-941-2337</Fax>
+      <Website>www.hjlawfirm.com</Website>
+    </Vendor>
+    <BillTo>
+      <Name>Cimarron Ponds Homeowners Association, Inc.</Name>
+      <CareOf>c/o Sharper Management</CareOf>
+      <AddressLine1>10340 Viking Dr.</AddressLine1>
+      <AddressLine2>#105</AddressLine2>
+      <City>Eden Prairie</City>
+      <State>MN</State>
+      <PostalCode>55344</PostalCode>
+      <Attention>Michelle Stephans</Attention>
+    </BillTo>
+    <Currency>USD</Currency>
+    <LineItems />
+    <AgedAccountsReceivable />
+    <TimekeeperSummary />
+    <Totals>
+      <PreviousBalance />
+      <CurrentInvoiceHours />
+      <CurrentInvoiceAmount />
+      <BalanceDue>325.00</BalanceDue>
+      <PleaseRemit>325.00</PleaseRemit>
+    </Totals>
+  </Invoice>
+</InvoiceExtraction>

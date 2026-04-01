@@ -1,0 +1,24 @@
+# Python cache / env
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+
+# Raw input PDFs
+pdfs/
+
+# Optional logs / temp files
+*.log
+*.tmp
+*.temp
+
